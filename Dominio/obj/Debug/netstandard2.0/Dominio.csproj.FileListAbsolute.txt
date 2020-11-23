@@ -1,0 +1,9 @@
+C:\sol_Core_01\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\sol_Core_01\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\sol_Core_01\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\sol_Core_01\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\sol_Core_01\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\sol_Core_01\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\sol_Core_01\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\sol_Core_01\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\sol_Core_01\Dominio\obj\Debug\netstandard2.0\Dominio.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4+FsD80Vhj2Cikz+oTjP7/PzMXhzoWwgFNP+4g+seeVVkHfqiCI3VurSKUk18VagoP6NRC9xgPyN8DR8fINoTQ==",
+  "success": true,
+  "projectFilePath": "C:\\sol_Core_01\\Dominio\\Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JackStv\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JackStv\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
